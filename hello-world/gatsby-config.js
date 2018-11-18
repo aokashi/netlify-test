@@ -1,6 +1,7 @@
 module.exports = {
     siteMetadata: {
-        title: 'Sample Site'
+        title: 'Sample Site',
+        description: 'GatsbyJS sample site.'
     },
     plugins: [
         {

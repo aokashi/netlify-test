@@ -1,0 +1,22 @@
+.header {
+    border-bottom: 2px solid #c0c0c0;
+}
+
+.text {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.description {
+    font-size: .9rem;
+}
+
+.menu ul {
+    list-style: none;
+    padding: 0 1rem;
+}
+
+.menu ul li {
+    display: inline-block;
+    margin: 0 1rem;
+}
